@@ -1,4 +1,4 @@
 # 58GuidePage
 58引导页
 
-![image](https://github.com/wjxlogo/WeiBoAnimation/blob/master/微博动画/微博动画.gif)
+![image](https://github.com/wjxlogo/58GuidePage/blob/master/58引导页/58启动页.gif)
